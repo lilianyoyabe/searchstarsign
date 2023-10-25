@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../Local Sites/baoziblog/app/public/wp-content/themes/Baozi-theme"
+		},
+		{
+			"path": "../../Local Sites/baoziblog/app/public/wp-content/mu-plugins"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
